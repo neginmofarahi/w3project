@@ -96,9 +96,9 @@ p {
 
 @media (max-width: 600px) {
   h1 {
-    font-size: 60px;
+    font-size: 54px;
   }
-  body {
-    background-color: aqua;
+  h2 {
+    font-size: 30px;
   }
 }
